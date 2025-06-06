@@ -883,7 +883,6 @@ body {
     flex-direction: row;
     flex-wrap: nowrap;
     justify-content: center;
-    /* margin: 0px 0px 75px 0px; */
     padding: 0px;
     max-width: 100%;
     overflow: hidden;
@@ -1121,9 +1120,7 @@ body {
     font-weight: 600;
 }
 
-/* .maru {
-    font-family: "UD新丸ゴ DB", "UD Shin Maru Go DemiBold", sans-serif;
-} */
+
 .t-information-treatment span {
     font-size: 1rem;
 }
@@ -1331,6 +1328,16 @@ body {
 
   /* ============================ */
   
+
+  .pickup{
+    margin: 100px 0 100px 0;
+  }
+ .pickupschedule{
+    max-width: 80%;
+    width: 100%;
+ }
+
+  /* =================================== */
   
   .qa-section {
   max-width: 80%;
